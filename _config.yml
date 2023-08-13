@@ -5,7 +5,7 @@ header-img: img/home_head_pic.jpg
 email: qinge.li@outlook.com
 description: "Qinge Li's Personal Website.'"
 keyword: "Huawei, Erasmus University"
-url: "https://ggmoonster.github.io/" # your host, for absolute URL
+url: "https://guoguo.monster/" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 plugins_dir:
     - jekyll-redirect-from
