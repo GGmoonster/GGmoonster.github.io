@@ -3,7 +3,7 @@ layout:     post
 title:      "Topics on Data Analysis with STATA"
 subtitle:   "Guest lecture for Seminar Advanced Corporate Governance"
 date:       2017-11-22
-author:     "Yuhao Zhu"
+author:     "Qinge Li"
 header-img: "img/post_head_pic_js.jpg"
 tags:
     - Programming

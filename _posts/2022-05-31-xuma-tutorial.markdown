@@ -3,7 +3,7 @@ layout:     post
 title:      "徐碼繁簡通打輸入法簡明教程"
 subtitle:   "Xuma Input Scheme"
 date:       2022-05-01
-author:     "Yuhao Zhu"
+author:     "Qinge Li"
 header-img: "img/post_head_pic_js.jpg"
 tags:
     - 中文輸入法

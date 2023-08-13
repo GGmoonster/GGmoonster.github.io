@@ -3,7 +3,7 @@ layout:     post
 title:      "Basic Econometrics for Data Analysis"
 subtitle:   "Guest lecture for Seminar Advanced Corporate Governance"
 date:       2018-01-10
-author:     "Yuhao Zhu"
+author:     "Qinge Li"
 header-img: "img/post_head_pic_js.jpg"
 tags:
     - Statistics

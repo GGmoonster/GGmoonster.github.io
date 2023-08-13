@@ -3,7 +3,7 @@ layout:     post
 title:      "復旦十景"
 subtitle:   "最美的復旦"
 date:       2010-12-31
-author:     "Yuhao Zhu"
+author:     "Qinge Li"
 header-img: "img/post_head_pic_js.jpg"
 tags:
     - photography

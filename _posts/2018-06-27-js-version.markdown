@@ -3,7 +3,7 @@ layout:     post
 title:      "Python Basics"
 subtitle:   "A Tutorial on Data Analysis"
 date:       2018-06-27
-author:     "Yuhao Zhu"
+author:     "Qinge Li"
 header-img: "img/post_head_pic_js.jpg"
 tags:
     - Programming

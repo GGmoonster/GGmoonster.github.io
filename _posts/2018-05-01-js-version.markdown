@@ -3,7 +3,7 @@ layout:     post
 title:      "A Review on Dutch Honey"
 subtitle:   "荷兰可见的蜂蜜品种鉴赏"
 date:       2018-05-01
-author:     "Yuhao Zhu"
+author:     "Qinge Li"
 header-img: "img/post_head_pic_js.jpg"
 tags:
     - Article

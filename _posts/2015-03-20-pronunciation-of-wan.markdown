@@ -3,7 +3,7 @@ layout:     post
 title:      "「万」实际读音到底读作「wàn」还是「vàn」？"
 subtitle:   "知乎回答"
 date:       2015-03-20
-author:     "Yuhao Zhu"
+author:     "Qinge Li"
 header-img: "img/post_head_pic_js.jpg"
 tags:
     - 知乎回答

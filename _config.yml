@@ -1,10 +1,10 @@
 # Site settings
-title: Yuhao Zhu
-SEOTitle: Yuhao Zhu
+title: Qinge Li
+SEOTitle: Qinge Li
 header-img: img/home_head_pic.jpg
-email: y.zhu@ese.eur.nl
-description: "Yuhao Zhu's Personal Website.'"
-keyword: "PhD, Finance, FRM, model validation"
+email: qinge.li@outlook.com
+description: "Qinge Li's Personal Website.'"
+keyword: "Huawei, Erasmus University"
 url: "https://guoguo.monster" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 plugins_dir:
@@ -13,10 +13,8 @@ plugins: [jekyll-paginate]
 
 # SNS settings
 RSS: false
-zhihu_username: zhuyuhao
 github_username: GGmoonster
-linkedin_username: zhuyuhao1991
-eur_username: yuhao-zhu
+linkedin_username: qinge-li
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
@@ -51,8 +49,8 @@ ga_domain:
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "朱宇浩, Model Validator at ABN AMRO Bank, PhD of Finance"
-sidebar-avatar: /img/zhuyuhao.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Qinge Li, Service Partner Specialist at Huawei Digital Power"
+sidebar-avatar: /img/liqinge.jpeg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
@@ -61,10 +59,5 @@ featured-condition-size: 0 # A tag will be featured if the size of it is more th
 # Friends
 friends:
     [
-        {
-            title: "ABN AMRO Bank N.V.",
-            href: "https://www.abnamro.com/en/index.html",
-        },
         { title: "Erasmus University Rotterdam", href: "https://www.eur.nl" },
-        { title: "Tinbergen Institute", href: "https://www.tinbergen.nl" },
     ]

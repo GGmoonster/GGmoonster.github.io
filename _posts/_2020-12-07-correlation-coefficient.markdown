@@ -3,7 +3,7 @@ layout:     post
 title:      "Why Statistic of Correlation Follows t-distribution?"
 subtitle:   "A statistical derivation"
 date:       2020-12-07
-author:     "Yuhao Zhu"
+author:     "Qinge Li"
 header-img: "img/post_head_pic_js.jpg"
 tags:
     - Statistics

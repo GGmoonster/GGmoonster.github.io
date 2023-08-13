@@ -3,7 +3,7 @@ layout:     post
 title:      "A Review on Matching Algorithms"
 subtitle:   "Mechanism Design and Market Institutions"
 date:       2015-05-19
-author:     "Yuhao Zhu"
+author:     "Qinge Li"
 header-img: "img/post_head_pic_js.jpg"
 tags:
     - Economics

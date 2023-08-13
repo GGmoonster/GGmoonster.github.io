@@ -3,7 +3,7 @@ layout:     post
 title:      "手把手教你画数据地图之进阶篇"
 subtitle:   "Python数据地图"
 date:       2020-10-25
-author:     "Yuhao Zhu"
+author:     "Qinge Li"
 header-img: "img/post_head_pic_js.jpg"
 tags:
     - Programming
