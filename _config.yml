@@ -14,7 +14,7 @@ plugins: [jekyll-paginate]
 # SNS settings
 RSS: false
 zhihu_username: zhuyuhao
-github_username: forFudan
+github_username: GGmoonster
 linkedin_username: zhuyuhao1991
 eur_username: yuhao-zhu
 
